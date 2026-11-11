@@ -1,0 +1,2 @@
+# pure-exercises
+Daily practice
